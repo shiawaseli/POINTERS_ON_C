@@ -1,4 +1,7 @@
 ﻿  1.c
-  2.c
+  4.c
+c:\users\10142\documents\github\pointers_on_c\pointers_on_c_practice01\pointers_on_c_practice01\4.c(12): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\10142\documents\github\pointers_on_c\pointers_on_c_practice01\pointers_on_c_practice01\4.c(12): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  5.c
   正在生成代码...
-  POINTERS_ON_C_practice01.vcxproj -> C:\Users\10142\source\repos\POINTERS_ON_C_practice01\Debug\POINTERS_ON_C_practice01.exe
+  POINTERS_ON_C_practice01.vcxproj -> C:\Users\10142\Documents\GitHub\POINTERS_ON_C\POINTERS_ON_C_practice01\Debug\POINTERS_ON_C_practice01.exe
