@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main5()
+int main()
 {
 	int a, b;
 	char ch[20];

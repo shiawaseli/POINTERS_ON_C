@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main2()
+int main()
 {
 	int i = 1, flag = 1;
 	char ch = ' ';

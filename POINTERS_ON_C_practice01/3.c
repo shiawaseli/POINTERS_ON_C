@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main3()
+int main()
 {
 	char ch;
 	signed char checksum = -1;

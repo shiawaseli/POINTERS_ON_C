@@ -4,7 +4,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-int main4()
+int main()
 {
 	char str1[1000], str2[1000];
 	int max = INT_MIN, len = 0;
